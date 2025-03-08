@@ -1,5 +1,5 @@
 {
- "name": "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
+ "name": "🧚‍♀️y2x_4!-𝗠𝗗-𝗩❼💗",
   "description": "Javascript WhatsApp bot made by Manul Official",
   "logo": "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
   "keywords": ["bot"],
@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from pair or scan qr.",
             "required": true,
-            "value": "put session id here"
+            "value": "Manu-MD&IWUEWCiY#XqAJIHOcUdzpAJnx6XHOoOqa0YkDuaaeCb2-ue36DP8"
         }
     },
     "buildpacks": [
